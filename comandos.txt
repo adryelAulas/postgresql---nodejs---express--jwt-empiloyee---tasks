@@ -96,11 +96,11 @@ git status
 
 git add .
 
-git commit -m "feature read employee"
+git commit -m "delete read employee"
 
 git log
 
-git push --set-upstream origin feature-27-read-employee
+git push --set-upstream origin feature-28-delete-employee
 
 git checkout master
 
